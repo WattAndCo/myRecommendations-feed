@@ -1,7 +1,7 @@
 {
   "version": 1,
   "language": "ja",
-  "updatedAt": "2026-04-14T07:50:44.140965+00:00",
+  "updatedAt": "2026-04-14T08:33:47.042163+00:00",
   "entries": [
     {
       "id": "trending-30013",
@@ -73,7 +73,7 @@
       "children": null,
       "vocabAnalysis": null,
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Chuunibyou, Male Protagonist, Magic, Cult, Isekai.",
-      "inCurated": false
+      "inCurated": true
     },
     {
       "id": "trending-106130",
