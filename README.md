@@ -2,7 +2,7 @@
 
 Public feed output for the myWords platform reading recommendations.
 
-Auto-updated daily by CI from the private `myRecommendations` repo. Contains only the generated trending feed data — no source code, scrapers, or catalog curation tools.
+Auto-updated daily by CI from the private `260004_myRecommendations` repo. Contains only the generated trending feed data — no source code, scrapers, or catalog curation tools.
 
 ## Files
 
