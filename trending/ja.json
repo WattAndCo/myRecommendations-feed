@@ -18908,7 +18908,7 @@
     },
     {
       "id": "rakuten-9784047387348",
-      "titleJP": "超かぐや姫！（1）",
+      "titleJP": "超かぐや姫！",
       "titleEN": "",
       "author": "スタジオクロマト・スタジオコロリド/桐山　なると/うらたあさお",
       "contentType": "lightNovel",
@@ -18930,11 +18930,12 @@
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784049163247",
-      "titleJP": "ビブリア古書堂の事件手帖V 〜扉子と謎めく夏〜（5）",
+      "titleJP": "ビブリア古書堂の事件手帖V 〜扉子と謎めく夏〜",
       "titleEN": "",
       "author": "三上　延",
       "contentType": "lightNovel",
@@ -18956,7 +18957,8 @@
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 5
     },
     {
       "id": "rakuten-9784046828651",
@@ -18986,7 +18988,7 @@
     },
     {
       "id": "rakuten-9784049522662",
-      "titleJP": "拝啓見知らぬ旦那様、離婚していただきますVI（11）",
+      "titleJP": "拝啓見知らぬ旦那様、離婚していただきますVI",
       "titleEN": "",
       "author": "久川　航璃",
       "contentType": "lightNovel",
@@ -19008,11 +19010,12 @@
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 11
     },
     {
       "id": "rakuten-9784301005681",
-      "titleJP": "悪役令嬢は溺愛ルートに入りました！？（10）",
+      "titleJP": "悪役令嬢は溺愛ルートに入りました！？",
       "titleEN": "",
       "author": "十夜/宵マチ",
       "contentType": "lightNovel",
@@ -19034,7 +19037,8 @@
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 10
     },
     {
       "id": "rakuten-9784049169300",
@@ -19090,7 +19094,7 @@
     },
     {
       "id": "rakuten-9784867169926",
-      "titleJP": "嘆きの亡霊は引退したい〜最弱ハンターによる最強パーティ育成術〜 14",
+      "titleJP": "嘆きの亡霊は引退したい〜最弱ハンターによる最強パーティ育成術〜",
       "titleEN": "",
       "author": "槻影/チーコ",
       "contentType": "lightNovel",
@@ -19112,7 +19116,8 @@
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 14
     },
     {
       "id": "rakuten-9784296121045",
@@ -19480,7 +19485,7 @@
     },
     {
       "id": "rakuten-9784041173497",
-      "titleJP": "烏衣の華 4",
+      "titleJP": "烏衣の華",
       "titleEN": "",
       "author": "白川　紺子/春野　薫久",
       "contentType": "literature",
@@ -19502,7 +19507,8 @@
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 4
     },
     {
       "id": "rakuten-9784299076502",
@@ -19589,7 +19595,7 @@
     },
     {
       "id": "rakuten-9784040762074",
-      "titleJP": "わたしの幸せな結婚　十（10）",
+      "titleJP": "わたしの幸せな結婚　十",
       "titleEN": "My Happy Marriage, Vol. 10",
       "author": "顎木　あくみ/月岡　月穂",
       "contentType": "lightNovel",
@@ -19617,7 +19623,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 10
     },
     {
       "id": "rakuten-9784041163894",
@@ -19683,7 +19690,7 @@
     },
     {
       "id": "rakuten-9784041173985",
-      "titleJP": "高一事変（1）",
+      "titleJP": "高一事変",
       "titleEN": "First Year Incident",
       "author": "松岡　圭祐",
       "contentType": "literature",
@@ -19711,7 +19718,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784046600837",
@@ -19842,7 +19850,7 @@
     },
     {
       "id": "rakuten-9784049152982",
-      "titleJP": "ビブリア古書堂の事件手帖IV 〜扉子たちと継がれる道〜（4）",
+      "titleJP": "ビブリア古書堂の事件手帖IV 〜扉子たちと継がれる道〜",
       "titleEN": "Biblia Antiquarian Bookshop's Case Files, Vol. 4",
       "author": "三上　延",
       "contentType": "lightNovel",
@@ -19870,11 +19878,12 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 4
     },
     {
       "id": "rakuten-9784049165869",
-      "titleJP": "続・魔法科高校の劣等生 メイジアン・カンパニー(11)",
+      "titleJP": "続・魔法科高校の劣等生 メイジアン・カンパニー",
       "titleEN": "The Irregular at Magic High School: Magian Company, Vol. 11",
       "author": "佐島　勤/石田　可奈",
       "contentType": "lightNovel",
@@ -19902,11 +19911,12 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 11
     },
     {
       "id": "rakuten-9784049169669",
-      "titleJP": "創約 とある魔術の禁書目録（15）",
+      "titleJP": "創約 とある魔術の禁書目録",
       "titleEN": "A Certain Magical Index",
       "author": "鎌池　和馬/はいむら　きよたか",
       "contentType": "lightNovel",
@@ -19934,7 +19944,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 15
     },
     {
       "id": "rakuten-9784065401880",
@@ -20000,7 +20011,7 @@
     },
     {
       "id": "rakuten-9784074297726",
-      "titleJP": "薬屋のひとりごと　7",
+      "titleJP": "薬屋のひとりごと",
       "titleEN": "The Apothecary Diaries",
       "author": "日向夏/しのとうこ",
       "contentType": "lightNovel",
@@ -20027,7 +20038,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 7
     },
     {
       "id": "rakuten-9784094532883",
@@ -20151,7 +20163,7 @@
     },
     {
       "id": "rakuten-9784391167719",
-      "titleJP": "リラックマ4クママンガ 17",
+      "titleJP": "リラックマ4クママンガ",
       "titleEN": "Rilakkuma 4-Panel Manga Vol. 17",
       "author": "コンドウ アキ",
       "contentType": "literature",
@@ -20177,7 +20189,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 17
     },
     {
       "id": "rakuten-9784408560076",
@@ -20801,7 +20814,7 @@
     },
     {
       "id": "rakuten-9784040758619",
-      "titleJP": "あそびのかんけい（1）",
+      "titleJP": "あそびのかんけい",
       "titleEN": "The Love Game, Vol. 1",
       "author": "葵　せきな/深崎　暮人",
       "contentType": "lightNovel",
@@ -20827,11 +20840,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784040762951",
-      "titleJP": "スパイ教室 短編集06 消されたアクトレス（6）",
+      "titleJP": "スパイ教室 短編集06 消されたアクトレス",
       "titleEN": "Spy Classroom: Short Stories, Vol. 6: The Vanished Actress",
       "author": "竹町/トマリ",
       "contentType": "lightNovel",
@@ -20857,7 +20871,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 6
     },
     {
       "id": "rakuten-9784040763248",
@@ -21166,7 +21181,7 @@
     },
     {
       "id": "rakuten-9784041171004",
-      "titleJP": "人生に疲れ辿り着いた村で、美女達が俺を離してくれない（1）",
+      "titleJP": "人生に疲れ辿り着いた村で、美女達が俺を離してくれない",
       "titleEN": "",
       "author": "みょん/ギザン",
       "contentType": "lightNovel",
@@ -21187,11 +21202,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784041172773",
-      "titleJP": "クラスで2番目に可愛い女の子と友だちになった9（10）",
+      "titleJP": "クラスで2番目に可愛い女の子と友だちになった9",
       "titleEN": "The Second Cutest Girl in Class - Volume 10",
       "author": "たかた/日向　あずり",
       "contentType": "lightNovel",
@@ -21218,11 +21234,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 10
     },
     {
       "id": "rakuten-9784041174593",
-      "titleJP": "誰が勇者を殺したか 賢者の章（4）",
+      "titleJP": "誰が勇者を殺したか 賢者の章",
       "titleEN": "Who Killed the Hero?",
       "author": "駄犬/toi8",
       "contentType": "lightNovel",
@@ -21249,7 +21266,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 4
     },
     {
       "id": "rakuten-9784041174876",
@@ -21278,7 +21296,7 @@
     },
     {
       "id": "rakuten-9784041176375",
-      "titleJP": "令和中野学校III スパイ防止法（3）",
+      "titleJP": "令和中野学校III スパイ防止法",
       "titleEN": "Reiwa Nakano Academy III: Anti-Spy Law",
       "author": "松岡　圭祐",
       "contentType": "literature",
@@ -21304,7 +21322,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 3
     },
     {
       "id": "rakuten-9784041290095",
@@ -21363,7 +21382,7 @@
     },
     {
       "id": "rakuten-9784046318237",
-      "titleJP": "星のカービィ スターアライズ 宇宙の大ピンチ!?編（12）",
+      "titleJP": "星のカービィ スターアライズ 宇宙の大ピンチ!?編",
       "titleEN": "",
       "author": "高瀬　美恵/苅野　タウ/ぽと",
       "contentType": "literature",
@@ -21384,7 +21403,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 12
     },
     {
       "id": "rakuten-9784046842442",
@@ -21438,7 +21458,7 @@
     },
     {
       "id": "rakuten-9784046858221",
-      "titleJP": "密かに推してた天使さまに逆プロデュースされることになっちゃいました!?（1）",
+      "titleJP": "密かに推してた天使さまに逆プロデュースされることになっちゃいました!?",
       "titleEN": "",
       "author": "星奏　なつめ/池内　たぬま",
       "contentType": "lightNovel",
@@ -21459,7 +21479,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784047387317",
@@ -21494,7 +21515,7 @@
     },
     {
       "id": "rakuten-9784047388215",
-      "titleJP": "青龍の瞳の花嫁 二（2）",
+      "titleJP": "青龍の瞳の花嫁 二",
       "titleEN": "Bride of the Blue Dragon's Eyes, Vol. 2",
       "author": "石田　リンネ/Izumi",
       "contentType": "lightNovel",
@@ -21520,11 +21541,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 2
     },
     {
       "id": "rakuten-9784048927567",
-      "titleJP": "Fate/strange Fake（4）",
+      "titleJP": "Fate/strange Fake",
       "titleEN": "",
       "author": "成田　良悟/TYPE-MOON/森井　しづき",
       "contentType": "lightNovel",
@@ -21545,11 +21567,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 4
     },
     {
       "id": "rakuten-9784049133332",
-      "titleJP": "君が最後に遺した歌（1）",
+      "titleJP": "君が最後に遺した歌",
       "titleEN": "",
       "author": "一条　岬",
       "contentType": "lightNovel",
@@ -21570,11 +21593,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784049135848",
-      "titleJP": "春夏秋冬代行者 春の舞 上（1）",
+      "titleJP": "春夏秋冬代行者 春の舞",
       "titleEN": "",
       "author": "暁　佳奈/スオウ",
       "contentType": "lightNovel",
@@ -21597,11 +21621,12 @@
       "status": "approved",
       "isbn": "9784049135848",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784049139433",
-      "titleJP": "春夏秋冬代行者 夏の舞 下（4）",
+      "titleJP": "春夏秋冬代行者 夏の舞",
       "titleEN": "",
       "author": "暁　佳奈/スオウ",
       "contentType": "lightNovel",
@@ -21622,7 +21647,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 4
     },
     {
       "id": "rakuten-9784049155563",
@@ -21656,7 +21682,7 @@
     },
     {
       "id": "rakuten-9784049168990",
-      "titleJP": "私が最後に遺した歌（2）",
+      "titleJP": "私が最後に遺した歌",
       "titleEN": "The Last Song I Left Behind",
       "author": "一条　岬",
       "contentType": "lightNovel",
@@ -21683,7 +21709,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 2
     },
     {
       "id": "rakuten-9784049522433",
@@ -22475,7 +22502,7 @@
     },
     {
       "id": "rakuten-9784251060198",
-      "titleJP": "日本むかしばなし　2",
+      "titleJP": "日本むかしばなし",
       "titleEN": "",
       "author": "寺村　輝夫/ヒサ　クニヒコ",
       "contentType": "literature",
@@ -22498,7 +22525,8 @@
       "status": "approved",
       "isbn": "9784251060198",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 2
     },
     {
       "id": "rakuten-9784265850372",
@@ -22745,7 +22773,7 @@
     },
     {
       "id": "rakuten-9784396351793",
-      "titleJP": "新 本所おけら長屋(五)",
+      "titleJP": "新 本所おけら長屋",
       "titleEN": "The Okera Alley Chronicles: Volume Five",
       "author": "畠山健二",
       "contentType": "literature",
@@ -22775,7 +22803,7 @@
     },
     {
       "id": "rakuten-9784434254529",
-      "titleJP": "自称悪役令嬢な婚約者の観察記録。（1）",
+      "titleJP": "自称悪役令嬢な婚約者の観察記録。",
       "titleEN": "",
       "author": "しき",
       "contentType": "lightNovel",
@@ -22796,7 +22824,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784478123904",
@@ -23781,7 +23810,7 @@
     },
     {
       "id": "rakuten-9784815632946",
-      "titleJP": "ダンジョンに出会いを求めるのは間違っているだろうか 21",
+      "titleJP": "ダンジョンに出会いを求めるのは間違っているだろうか",
       "titleEN": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
       "author": "大森藤ノ/ヤスダスズヒト",
       "contentType": "lightNovel",
@@ -23808,7 +23837,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 21
     },
     {
       "id": "rakuten-9784815634339",
@@ -23973,7 +24003,7 @@
     },
     {
       "id": "rakuten-9784824206510",
-      "titleJP": "ウィル様は今日も魔法で遊んでいます。（10）",
+      "titleJP": "ウィル様は今日も魔法で遊んでいます。",
       "titleEN": "Lord Will's Magical Days, Vol. 10",
       "author": "綾河ららら/ネコメガネ",
       "contentType": "lightNovel",
@@ -23999,7 +24029,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 10
     },
     {
       "id": "rakuten-9784834008609",
@@ -24389,7 +24420,7 @@
     },
     {
       "id": "rakuten-9784866579252",
-      "titleJP": "白い結婚を求め、離縁を求められる妻ですが、既に家にはおりません。 2",
+      "titleJP": "白い結婚を求め、離縁を求められる妻ですが、既に家にはおりません。",
       "titleEN": "",
       "author": "川崎悠/中條由良",
       "contentType": "lightNovel",
@@ -24410,11 +24441,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 2
     },
     {
       "id": "rakuten-9784866579320",
-      "titleJP": "サイコな黒幕の義姉ちゃん 3",
+      "titleJP": "サイコな黒幕の義姉ちゃん",
       "titleEN": "The Obsessive Stepsister's Gambit",
       "author": "59/カズアキ",
       "contentType": "lightNovel",
@@ -24440,11 +24472,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 3
     },
     {
       "id": "rakuten-9784866579351",
-      "titleJP": "天官賜福 6",
+      "titleJP": "天官賜福",
       "titleEN": "Heaven Official's Blessing",
       "author": "墨香銅臭/日出的小太陽/鄭穎馨",
       "contentType": "literature",
@@ -24470,11 +24503,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 6
     },
     {
       "id": "rakuten-9784896376982",
-      "titleJP": "転生したらスライムだった件（12）",
+      "titleJP": "転生したらスライムだった件",
       "titleEN": "",
       "author": "伏瀬/みっつばー",
       "contentType": "lightNovel",
@@ -24495,11 +24529,12 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 12
     },
     {
       "id": "rakuten-9784867169377",
-      "titleJP": "迷宮のナダ　2",
+      "titleJP": "迷宮のナダ",
       "titleEN": "",
       "author": "乙黒/メ脳",
       "contentType": "lightNovel",
@@ -24520,7 +24555,8 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "volumeNumber": 2
     },
     {
       "id": "rakuten-9784867949634",
@@ -25126,7 +25162,7 @@
     },
     {
       "id": "rakuten-9784049165647",
-      "titleJP": "神様の御用人 見習い（12）",
+      "titleJP": "神様の御用人 見習い",
       "titleEN": "",
       "author": "浅葉　なつ",
       "contentType": "lightNovel",
@@ -25147,11 +25183,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 12
     },
     {
       "id": "rakuten-9784824206572",
-      "titleJP": "秘孔術師の僕、ダンジョン学園で美少女たちのツボを攻略する（3）",
+      "titleJP": "秘孔術師の僕、ダンジョン学園で美少女たちのツボを攻略する",
       "titleEN": "",
       "author": "Novpracd/左側",
       "contentType": "lightNovel",
@@ -25172,7 +25209,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 3
     },
     {
       "id": "rakuten-9784798641898",
@@ -25301,7 +25339,7 @@
     },
     {
       "id": "rakuten-9784046837127",
-      "titleJP": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜10（11）",
+      "titleJP": "魔導具師ダリヤはうつむかない　〜今日から自由な職人ライフ〜10",
       "titleEN": "",
       "author": "甘岸久弥/駒田　ハチ/景",
       "contentType": "lightNovel",
@@ -25322,11 +25360,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 11
     },
     {
       "id": "rakuten-9784301000464",
-      "titleJP": "あなたのお城の小人さん　〜空を翔る配管工〜（1）",
+      "titleJP": "あなたのお城の小人さん　〜空を翔る配管工〜",
       "titleEN": "",
       "author": "美袋和仁/п猫R",
       "contentType": "lightNovel",
@@ -25347,7 +25386,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784344421578",
@@ -26076,7 +26116,7 @@
     },
     {
       "id": "rakuten-9784048979252",
-      "titleJP": "人生は選択でできている（1）",
+      "titleJP": "人生は選択でできている",
       "titleEN": "",
       "author": "猫沢　エミ",
       "contentType": "literature",
@@ -26097,7 +26137,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784065428023",
@@ -26301,7 +26342,7 @@
     },
     {
       "id": "rakuten-9784150125066",
-      "titleJP": "プロジェクト・ヘイル・メアリー 上",
+      "titleJP": "プロジェクト・ヘイル・メアリー",
       "titleEN": "",
       "author": "アンディ・ウィアー/小野田　和子",
       "contentType": "literature",
@@ -26576,7 +26617,7 @@
     },
     {
       "id": "rakuten-9784758433013",
-      "titleJP": "怖い人（1）",
+      "titleJP": "怖い人",
       "titleEN": "",
       "author": "平山夢明",
       "contentType": "literature",
@@ -26597,7 +26638,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 1
     },
     {
       "id": "rakuten-9784488725075",
@@ -26701,7 +26743,7 @@
     },
     {
       "id": "rakuten-9784150310868",
-      "titleJP": "華竜の宮（下）",
+      "titleJP": "華竜の宮",
       "titleEN": "",
       "author": "上田早夕里",
       "contentType": "literature",
@@ -27076,7 +27118,7 @@
     },
     {
       "id": "rakuten-9784065354162",
-      "titleJP": "空、はてしない青　上",
+      "titleJP": "空、はてしない青",
       "titleEN": "",
       "author": "メリッサ・ダ・コスタ/山本 知子",
       "contentType": "literature",
@@ -27251,7 +27293,7 @@
     },
     {
       "id": "rakuten-9784150120436",
-      "titleJP": "火星の人〔新版〕 上",
+      "titleJP": "火星の人〔新版〕",
       "titleEN": "",
       "author": "アンディ・ウィアー/小野田　和子",
       "contentType": "literature",
@@ -27401,7 +27443,7 @@
     },
     {
       "id": "rakuten-9784799112052",
-      "titleJP": "人渣反派自救系統 2",
+      "titleJP": "人渣反派自救系統",
       "titleEN": "",
       "author": "墨香銅臭/呉聖華/動物/沼落とし妖怪",
       "contentType": "literature",
@@ -27422,7 +27464,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 2
     },
     {
       "id": "rakuten-9784488118532",
@@ -27451,7 +27494,7 @@
     },
     {
       "id": "rakuten-9784831827180",
-      "titleJP": "原典訳 マハーバーラタ（6）",
+      "titleJP": "原典訳 マハーバーラタ",
       "titleEN": "",
       "author": "上村 勝彦",
       "contentType": "literature",
@@ -27472,7 +27515,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 6
     },
     {
       "id": "rakuten-9784488251079",
@@ -27501,7 +27545,7 @@
     },
     {
       "id": "rakuten-9784122077867",
-      "titleJP": "フーコーの振り子（中）",
+      "titleJP": "フーコーの振り子",
       "titleEN": "",
       "author": "ウンベルト・エーコ/藤村昌昭",
       "contentType": "literature",
@@ -27551,7 +27595,7 @@
     },
     {
       "id": "rakuten-9784088941967",
-      "titleJP": "キングダム 79",
+      "titleJP": "キングダム",
       "titleEN": "",
       "author": "原 泰久",
       "contentType": "manga",
@@ -27572,11 +27616,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 79
     },
     {
       "id": "rakuten-9784065433225",
-      "titleJP": "ブルーロック（38）",
+      "titleJP": "ブルーロック",
       "titleEN": "",
       "author": "金城 宗幸/ノ村 優介",
       "contentType": "manga",
@@ -27597,11 +27642,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 38
     },
     {
       "id": "rakuten-9784403671951",
-      "titleJP": "百姓貴族（9）",
+      "titleJP": "百姓貴族",
       "titleEN": "",
       "author": "荒川 弘",
       "contentType": "manga",
@@ -27622,11 +27668,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 9
     },
     {
       "id": "rakuten-9784088850092",
-      "titleJP": "SPY×FAMILY 17",
+      "titleJP": "SPY×FAMILY",
       "titleEN": "",
       "author": "遠藤 達哉",
       "contentType": "manga",
@@ -27647,11 +27694,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 17
     },
     {
       "id": "rakuten-9784088942414",
-      "titleJP": "REAL 17",
+      "titleJP": "REAL",
       "titleEN": "",
       "author": "井上 雄彦",
       "contentType": "manga",
@@ -27672,11 +27720,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 17
     },
     {
       "id": "rakuten-9784091582294",
-      "titleJP": "薬屋のひとりごと〜猫猫の後宮謎解き手帳〜（22）",
+      "titleJP": "薬屋のひとりごと〜猫猫の後宮謎解き手帳〜",
       "titleEN": "",
       "author": "日向 夏/倉田 三ノ路/しの とうこ",
       "contentType": "manga",
@@ -27697,11 +27746,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 22
     },
     {
       "id": "rakuten-9784065439104",
-      "titleJP": "薫る花は凛と咲く（23）",
+      "titleJP": "薫る花は凛と咲く",
       "titleEN": "",
       "author": "三香見 サカ",
       "contentType": "manga",
@@ -27722,11 +27772,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 23
     },
     {
       "id": "rakuten-9784041173336",
-      "titleJP": "ファイブスター物語　19",
+      "titleJP": "ファイブスター物語",
       "titleEN": "",
       "author": "永野　護",
       "contentType": "manga",
@@ -27747,11 +27798,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 19
     },
     {
       "id": "rakuten-9784065432013",
-      "titleJP": "スキップとローファー（13）",
+      "titleJP": "スキップとローファー",
       "titleEN": "",
       "author": "高松 美咲",
       "contentType": "manga",
@@ -27772,11 +27824,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 13
     },
     {
       "id": "rakuten-9784045000096",
-      "titleJP": "本なら売るほど 3",
+      "titleJP": "本なら売るほど",
       "titleEN": "",
       "author": "児島　青",
       "contentType": "manga",
@@ -27797,11 +27850,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 3
     },
     {
       "id": "rakuten-9784065438817",
-      "titleJP": "WIND　BREAKER（26）",
+      "titleJP": "WIND　BREAKER",
       "titleEN": "",
       "author": "にい さとる",
       "contentType": "manga",
@@ -27822,7 +27876,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 26
     },
     {
       "id": "rakuten-9784088850764",
@@ -27851,7 +27906,7 @@
     },
     {
       "id": "rakuten-9784088850054",
-      "titleJP": "青の祓魔師 34",
+      "titleJP": "青の祓魔師",
       "titleEN": "",
       "author": "加藤 和恵",
       "contentType": "manga",
@@ -27872,11 +27927,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 34
     },
     {
       "id": "rakuten-9784088851259",
-      "titleJP": "ダンダダン 24",
+      "titleJP": "ダンダダン",
       "titleEN": "",
       "author": "龍 幸伸",
       "contentType": "manga",
@@ -27897,7 +27953,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 24
     },
     {
       "id": "rakuten-9784799778241",
@@ -27926,7 +27983,7 @@
     },
     {
       "id": "rakuten-9784592225836",
-      "titleJP": "スキップ・ビート！ 53",
+      "titleJP": "スキップ・ビート！",
       "titleEN": "",
       "author": "仲村 佳樹",
       "contentType": "manga",
@@ -27947,11 +28004,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 53
     },
     {
       "id": "rakuten-9784088850047",
-      "titleJP": "この音とまれ！ 34",
+      "titleJP": "この音とまれ！",
       "titleEN": "",
       "author": "アミュー",
       "contentType": "manga",
@@ -27972,11 +28030,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 34
     },
     {
       "id": "rakuten-9784065441091",
-      "titleJP": "ふらいんぐうぃっち（15）",
+      "titleJP": "ふらいんぐうぃっち",
       "titleEN": "",
       "author": "石塚 千尋",
       "contentType": "manga",
@@ -27997,11 +28056,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 15
     },
     {
       "id": "rakuten-9784065435496",
-      "titleJP": "ブルーピリオド（19）",
+      "titleJP": "ブルーピリオド",
       "titleEN": "",
       "author": "山口 つばさ",
       "contentType": "manga",
@@ -28022,11 +28082,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 19
     },
     {
       "id": "rakuten-9784088850351",
-      "titleJP": "アオのハコ 25",
+      "titleJP": "アオのハコ",
       "titleEN": "",
       "author": "三浦 糀",
       "contentType": "manga",
@@ -28047,11 +28108,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 25
     },
     {
       "id": "rakuten-9784098640454",
-      "titleJP": "新九郎、奔る！（23）",
+      "titleJP": "新九郎、奔る！",
       "titleEN": "",
       "author": "ゆうき まさみ",
       "contentType": "manga",
@@ -28072,11 +28134,12 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 23
     },
     {
       "id": "rakuten-9784065436554",
-      "titleJP": "金田一パパの事件簿（4）",
+      "titleJP": "金田一パパの事件簿",
       "titleEN": "",
       "author": "天樹 征丸/さとう ふみや",
       "contentType": "manga",
@@ -28097,7 +28160,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "volumeNumber": 4
     }
   ],
   "feedHealth": {
