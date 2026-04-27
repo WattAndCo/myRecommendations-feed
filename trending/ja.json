@@ -28,7 +28,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_2",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-169355",
@@ -54,7 +55,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-180752",
@@ -81,7 +83,8 @@
       "inCurated": false,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-108556",
@@ -108,7 +111,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_latest",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-125828",
@@ -132,7 +136,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Assassins, Urban Fantasy, Family Life, Crime, Found Family. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-149544",
@@ -156,7 +161,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Female Protagonist, Yuri, LGBTQ+ Themes, Rock Music, Tomboy. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-98263",
@@ -182,7 +188,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86399",
@@ -209,7 +216,8 @@
       "inCurated": true,
       "coverChoiceSource": "anilist",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-106130",
@@ -235,7 +243,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-46765",
@@ -259,7 +268,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Military, Historical, War, Ancient China, Politics. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-136109",
@@ -284,7 +294,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Yuri, Female Protagonist, Disability, LGBTQ+ Themes, Primarily Female Cast. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-105778",
@@ -312,7 +323,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-157391",
@@ -339,7 +351,8 @@
       "inCurated": false,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-74347",
@@ -366,7 +379,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-203593",
@@ -390,7 +404,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Full Color, Long Strip, Male Protagonist, Magic, Swordplay.",
       "inCurated": false,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-122063",
@@ -417,7 +432,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Video Games, Virtual World, Shounen, Kemonomimi, Anthropomorphism. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-140475",
@@ -442,7 +458,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Iyashikei, Heterosexual, Primarily Teen Cast, School, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-101517",
@@ -467,7 +484,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Urban Fantasy, Demons, Super Power, Shounen, Curses. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30002",
@@ -495,7 +513,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Tragedy, Seinen, Revenge, Male Protagonist, Demons. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-53390",
@@ -521,7 +540,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Dystopian, Anti-Hero, War, Philosophy, Tragedy. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-87216",
@@ -547,7 +567,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Demons, Shounen, Swordplay, Tragedy, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-63327",
@@ -575,7 +596,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-34632",
@@ -600,7 +622,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Coming of Age, Seinen, Tragedy, Philosophy, Denpa. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85486",
@@ -627,7 +650,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Superhero, Super Power, Urban Fantasy, Shounen, Boarding School. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30656",
@@ -652,7 +676,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Samurai, Swordplay, Seinen, Historical, Philosophy. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30642",
@@ -677,7 +702,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Rehabilitation, Historical, Coming of Age, Vikings, Foreign. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-87423",
@@ -705,7 +731,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Survival, Primarily Child Cast, Body Horror, Demons, Found Family. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-72451",
@@ -730,7 +757,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Heterosexual, Female Protagonist, Male Protagonist, Primarily Teen Cast, Tsundere. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86635",
@@ -756,7 +784,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: School, Heterosexual, Tsundere, Female Protagonist, Primarily Teen Cast. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-102988",
@@ -782,7 +811,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Delinquents, Gangs, Time Manipulation, Time Skip, Tragedy. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30012",
@@ -807,7 +837,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Shounen, Swordplay, Super Power, Ghost, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-132029",
@@ -835,7 +866,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Youkai, Urban Fantasy, Ghost, Aliens, Super Power. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-97852",
@@ -860,7 +892,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: School, Coming of Age, Kuudere, Ensemble Cast, Episodic. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30026",
@@ -886,7 +919,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Shounen, Super Power, Cultivation, Ensemble Cast, Travel. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-117195",
@@ -912,7 +946,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Revenge, Acting, Idol, Tragedy, Reincarnation. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86123",
@@ -938,7 +973,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Magic, Shounen, Super Power, Demons, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30001",
@@ -964,7 +1000,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Seinen, Conspiracy, Philosophy, Crime, Tragedy. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-120760",
@@ -988,7 +1025,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Kaiju, Urban Fantasy, Shapeshifting, Shounen, Military. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30003",
@@ -1015,7 +1053,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Coming of Age, Ensemble Cast, Politics, Seinen, Achronological Order. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-31706",
@@ -1042,7 +1081,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Travel, Cowboys, Super Power, Male Protagonist, Seinen.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-87170",
@@ -1070,7 +1110,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Post-Apocalyptic, Tragedy, Suicide, Dystopian, Revenge. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85611",
@@ -1098,7 +1139,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Tragedy, Dissociative Identities, Body Horror, Amnesia, Seinen. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-65243",
@@ -1123,7 +1165,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Volleyball, Shounen, Male Protagonist, Coming of Age, School Club. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30021",
@@ -1150,7 +1193,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Detective, Police, Anti-Hero, Urban Fantasy, Tragedy. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30011",
@@ -1175,7 +1219,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Shounen, Ninja, Revenge, Coming of Age, Found Family. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-100994",
@@ -1201,7 +1246,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Survival, Samurai, Philosophy, Mythology, Ninja. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-101583",
@@ -1228,7 +1274,8 @@
       "inCurated": true,
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85135",
@@ -1253,7 +1300,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Rehabilitation, Language Barrier, Bullying, Coming of Age, Disability. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-98416",
@@ -1279,7 +1327,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Post-Apocalyptic, Survival, Ensemble Cast, Educational, Shounen. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30436",
@@ -1307,7 +1356,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Tragedy, Body Horror, Cosmic Horror, Seinen, Survival. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-31133",
@@ -1335,7 +1385,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Dissociative Identities, Magic, Ensemble Cast, Anti-Hero, Amnesia. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-118586",
@@ -1360,7 +1411,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Magic, Travel, Elf, Philosophy, Female Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-97553",
@@ -1386,7 +1438,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Philosophy, Tragedy, Coming of Age, Male Protagonist, Primarily Adult Cast.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-146983",
@@ -1410,7 +1463,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: ONE_SHOT. Tags: Filmmaking, Meta, POV, Tragedy, Coming of Age. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-74489",
@@ -1438,7 +1492,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Philosophy, Tragedy, Anthropomorphism, Seinen, Religion. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30025",
@@ -1465,7 +1520,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Alchemy, Conspiracy, Politics, Philosophy, Military. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-107237",
@@ -1489,7 +1545,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Drawing, Coming of Age, College, Seinen, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-100664",
@@ -1515,7 +1572,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: MANGA. Tags: Bullying, Heterosexual, Female Protagonist, Tsundere, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85737",
@@ -1545,7 +1603,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Time Loop, Time Manipulation, Heterosexual, Tragedy, Isekai. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-94970",
@@ -1571,7 +1630,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: School, Primarily Teen Cast, Male Protagonist, Anti-Hero, Battle Royale. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-54875",
@@ -1597,7 +1657,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Magic, Male Protagonist, Mythology, Super Power, Gods. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-98610",
@@ -1623,7 +1684,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: War, Dystopian, Military, Tragedy, Robots. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85470",
@@ -1649,7 +1711,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Coming of Age, Rehabilitation, Isekai, Reincarnation, Magic. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86238",
@@ -1676,7 +1739,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Ensemble Cast, Isekai, Male Protagonist, Magic, Reincarnation. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-44893",
@@ -1702,7 +1766,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Urban Fantasy, Male Protagonist, Philosophy, Vampire, Gods. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-99026",
@@ -1726,7 +1791,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Female Protagonist, Detective, Royal Affairs, Medicine, Politics. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-135276",
@@ -1750,7 +1816,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Heterosexual, Male Protagonist, Unrequited Love, School, School Club. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-98361",
@@ -1777,7 +1844,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Tragedy, Philosophy, Urban Fantasy, Primarily Adult Cast, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85134",
@@ -1805,7 +1873,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Anti-Hero, Tragedy, Philosophy, Time Loop, Urban Fantasy.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-70171",
@@ -1831,7 +1900,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: School Club, School, Philosophy, Male Protagonist, Heterosexual. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-39115",
@@ -1858,7 +1928,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Economics, Kemonomimi, Heterosexual, Travel, Rural. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85976",
@@ -1886,7 +1957,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Anti-Hero, Skeleton, Magic, Isekai, Demons. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86355",
@@ -1911,7 +1983,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Isekai, Reincarnation, Magic, Kingdom Management, Politics. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-78399",
@@ -1937,7 +2010,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Gambling, Isekai, Kemonomimi, Video Games, Hikikomori. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-115166",
@@ -1962,7 +2036,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: School, Male Protagonist, Anti-Hero, Ensemble Cast, Boarding School. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-51479",
@@ -1989,7 +2064,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Virtual World, Tragedy, Death Game, Swordplay, Medieval. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-39726",
@@ -2016,7 +2092,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Philosophy, Coming of Age, Male Protagonist, Detective, Meta. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85743",
@@ -2041,7 +2118,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Isekai, Conspiracy, Kemonomimi, Medieval, Seinen. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-91170",
@@ -2067,7 +2145,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Urban Fantasy, Primarily Female Cast, Coming of Age, School, Time Manipulation. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86406",
@@ -2092,7 +2171,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Monster Girl, Magic, Isekai, Reincarnation, Gods. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-42854",
@@ -2119,7 +2199,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Magic, Amnesia, Super Power, Male Protagonist, Conspiracy. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-108428",
@@ -2144,7 +2225,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Cult, Chuunibyou, Swordplay, Anti-Hero, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-33083",
@@ -2171,7 +2253,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: School Club, Philosophy, School, Urban Fantasy, Tsundere. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-55409",
@@ -2198,7 +2281,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Super Power, Demons, Female Harem, Nudity, Dragons. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85162",
@@ -2225,7 +2309,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Dungeon, Gods, Medieval, Magic, Swordplay. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-97298",
@@ -2249,7 +2334,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Writing, Disability, Rehabilitation, Female Protagonist, War.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-113533",
@@ -2274,7 +2360,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Male Protagonist, Iyashikei, Heterosexual, Primarily Teen Cast, School. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-130687",
@@ -2299,7 +2386,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Primarily Teen Cast, School, Heterosexual, Male Protagonist, Coming of Age. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86274",
@@ -2325,7 +2413,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Isekai, Male Protagonist, Kemonomimi, Medieval, Female Harem. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-94846",
@@ -2349,7 +2438,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Military, Historical, War, Gender Bending, Politics. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-53751",
@@ -2376,7 +2466,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Urban Fantasy, Achronological Order, Primarily Female Cast, Dissociative Identities, Female Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-37458",
@@ -2400,7 +2491,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Detective, Anti-Hero, Crime, Female Protagonist, Seinen.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-87284",
@@ -2427,7 +2519,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Tragedy, Male Protagonist, Swordplay, Post-Apocalyptic, Military. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-64127",
@@ -2453,7 +2546,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Magic, Politics, Military, School, Terrorism. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-109206",
@@ -2478,7 +2572,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: LGBTQ+ Themes, Yuri, Female Protagonist, Coming of Age, Ojou-sama. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-37149",
@@ -2502,7 +2597,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Female Protagonist, School, Tsundere, Heterosexual, Coming of Age. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-138829",
@@ -2529,7 +2625,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Demons, Henshin, Body Horror, Monster Boy, Monster Girl. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-33649",
@@ -2555,7 +2652,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Tragedy, Philosophy, Anti-Hero, Ensemble Cast, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86365",
@@ -2581,7 +2679,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Survival, Alternate Universe, Isekai, Tragedy, Amnesia. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-67523",
@@ -2607,7 +2706,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Female Harem, Super Power, Primarily Female Cast, War, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-87383",
@@ -2631,7 +2731,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Reincarnation, Isekai, Family Life, Female Protagonist, Economics. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-87320",
@@ -2655,7 +2756,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Goblin, Seinen, Anti-Hero, Dungeon, Medieval. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-46816",
@@ -2681,7 +2783,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Gangs, Ensemble Cast, Urban Fantasy, Achronological Order, Yakuza. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-98741",
@@ -2706,7 +2809,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Witch, Magic, Episodic, Female Protagonist, Travel. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-30399",
@@ -2734,7 +2838,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Philosophy, Episodic, Dystopian, Travel, Guns. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-66719",
@@ -2759,7 +2864,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Demons, Work, Alternate Universe, Magic, Fugitive. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-92550",
@@ -2783,7 +2889,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Yuri, Coming of Age, Primarily Female Cast, LGBTQ+ Themes, Female Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85465",
@@ -2809,7 +2916,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Shounen, Magic, School, Swordplay, Tsundere. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-73921",
@@ -2836,7 +2944,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Virtual World, Dungeon, Male Protagonist, Swordplay, Artificial Intelligence. Cover upgraded from Rakuten Books.",
       "inCurated": false,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-35249",
@@ -2862,7 +2971,8 @@
       "assessmentNotes": "Auto-classified from AniList. Format: NOVEL. Tags: Hikikomori, Philosophy, Primarily Adult Cast, Rehabilitation, Male Protagonist. Cover upgraded from Rakuten Books.",
       "inCurated": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784284001137",
@@ -2889,7 +2999,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784284001540",
@@ -2916,7 +3027,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784278087000",
@@ -2943,7 +3055,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784592762218",
@@ -2970,7 +3083,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784065422823",
@@ -2998,7 +3112,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784284204675",
@@ -3025,7 +3140,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784041090602",
@@ -3053,7 +3169,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784284001250",
@@ -3081,7 +3198,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784023333772",
@@ -3108,7 +3226,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784772100311",
@@ -3136,7 +3255,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784834032031",
@@ -3163,7 +3283,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784478121054",
@@ -3191,7 +3312,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784001141276",
@@ -3220,7 +3342,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784284001595",
@@ -3247,7 +3370,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784323037110",
@@ -3276,7 +3400,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784591151938",
@@ -3304,7 +3429,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784591151976",
@@ -3333,7 +3459,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784406063890",
@@ -3361,7 +3488,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784791634293",
@@ -3390,7 +3518,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784931129344",
@@ -3418,7 +3547,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784834023886",
@@ -3446,7 +3576,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784338268059",
@@ -3474,7 +3605,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784575305319",
@@ -3501,7 +3633,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784900401808",
@@ -3530,7 +3663,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784591151952",
@@ -3559,7 +3693,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784593563357",
@@ -3587,7 +3722,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784052052507",
@@ -3616,7 +3752,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784471103910",
@@ -3645,7 +3782,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784052056956",
@@ -3674,7 +3812,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784023333949",
@@ -3703,7 +3842,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784791631919",
@@ -3732,7 +3872,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784866518701",
@@ -3760,7 +3901,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784834088229",
@@ -3788,7 +3930,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784047387348",
@@ -3818,7 +3961,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784049163247",
@@ -3847,7 +3991,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784046828651",
@@ -3877,7 +4022,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784049522662",
@@ -3906,7 +4052,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784301005681",
@@ -3935,7 +4082,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784049169300",
@@ -3964,7 +4112,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784815640675",
@@ -3993,7 +4142,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784867169926",
@@ -4021,7 +4171,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784296121045",
@@ -4050,7 +4201,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784103534402",
@@ -4079,7 +4231,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784344435452",
@@ -4108,7 +4261,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784065358542",
@@ -4137,7 +4291,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784101061412",
@@ -4166,7 +4321,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784065433942",
@@ -4195,7 +4351,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784488451134",
@@ -4223,7 +4380,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784101061429",
@@ -4251,7 +4409,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784763142740",
@@ -4280,7 +4439,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784065430866",
@@ -4309,7 +4469,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784087700459",
@@ -4338,7 +4499,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784163920665",
@@ -4367,7 +4529,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784041168738",
@@ -4396,7 +4559,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784065423639",
@@ -4425,7 +4589,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784041173497",
@@ -4454,7 +4619,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784299076502",
@@ -4483,7 +4649,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784087448801",
@@ -4512,7 +4679,8 @@
       "inCurated": false,
       "enrichmentVersion": 1,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784022652317",
@@ -4542,7 +4710,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784040762074",
@@ -4573,7 +4742,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784041163894",
@@ -4603,7 +4773,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784041165621",
@@ -4633,7 +4804,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784041173985",
@@ -4664,7 +4836,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784046600837",
@@ -4695,7 +4868,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784046600844",
@@ -4726,7 +4900,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784046601636",
@@ -4756,7 +4931,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784046858207",
@@ -4787,7 +4963,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784049152982",
@@ -4818,7 +4995,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784049165869",
@@ -4849,7 +5027,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784049169669",
@@ -4880,7 +5059,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784065401880",
@@ -4910,7 +5090,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784065430873",
@@ -4940,7 +5121,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784074297726",
@@ -4970,7 +5152,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784074368846",
@@ -5001,7 +5184,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784074424207",
@@ -5032,7 +5216,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784094532883",
@@ -5063,7 +5248,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784265800377",
@@ -5091,7 +5277,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784284001007",
@@ -5119,7 +5306,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784334109530",
@@ -5148,7 +5336,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784391167719",
@@ -5177,7 +5366,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784408560076",
@@ -5207,7 +5397,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784591187982",
@@ -5236,7 +5427,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784591189436",
@@ -5266,7 +5458,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784593563319",
@@ -5295,7 +5488,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784620211015",
@@ -5325,7 +5519,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784756241221",
@@ -5354,7 +5549,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784791634606",
@@ -5382,7 +5578,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784801949249",
@@ -5411,7 +5608,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784815641221",
@@ -5441,7 +5639,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784834008999",
@@ -5470,7 +5669,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784865490565",
@@ -5499,7 +5699,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784867949269",
@@ -5530,7 +5731,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "rakuten-9784893252500",
@@ -5559,7 +5761,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-100850",
@@ -5585,7 +5788,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-101733",
@@ -5611,7 +5815,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-101851",
@@ -5638,7 +5843,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-101853",
@@ -5664,7 +5870,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-105388",
@@ -5689,7 +5896,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-107098",
@@ -5717,7 +5925,8 @@
       "_recovered": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-107758",
@@ -5746,7 +5955,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-110801",
@@ -5771,7 +5981,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-115935",
@@ -5798,7 +6009,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-119176",
@@ -5823,7 +6035,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-119352",
@@ -5848,7 +6061,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-123264",
@@ -5877,7 +6091,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-126597",
@@ -5906,7 +6121,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-126693",
@@ -5934,7 +6150,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-129152",
@@ -5959,7 +6176,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-129883",
@@ -5985,7 +6203,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-135532",
@@ -6012,7 +6231,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-136899",
@@ -6040,7 +6260,8 @@
       "_recovered": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-137513",
@@ -6065,7 +6286,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-138380",
@@ -6091,7 +6313,8 @@
       "_recovered": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-138755",
@@ -6117,7 +6340,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-143701",
@@ -6144,7 +6368,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-143775",
@@ -6171,7 +6396,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-145382",
@@ -6198,7 +6424,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-147329",
@@ -6225,7 +6452,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-147863",
@@ -6251,7 +6479,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-147997",
@@ -6278,7 +6507,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-148082",
@@ -6303,7 +6533,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-154387",
@@ -6329,7 +6560,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-161916",
@@ -6357,7 +6589,8 @@
       "enrichmentVersion": 1,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-162092",
@@ -6383,7 +6616,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-162974",
@@ -6408,7 +6642,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-163659",
@@ -6432,7 +6667,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-165881",
@@ -6461,7 +6697,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-167107",
@@ -6488,7 +6725,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-167423",
@@ -6514,7 +6752,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-168468",
@@ -6541,7 +6780,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-169551",
@@ -6567,7 +6807,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-172721",
@@ -6594,7 +6835,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "rakuten_vol1"
+      "coverChoiceSource": "rakuten_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-173343",
@@ -6619,7 +6861,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-179651",
@@ -6645,7 +6888,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-180739",
@@ -6672,7 +6916,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-181463",
@@ -6699,7 +6944,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-181671",
@@ -6724,7 +6970,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-181995",
@@ -6751,7 +6998,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_japanese"
+      "coverChoiceSource": "google_books_japanese",
+      "status": "approved"
     },
     {
       "id": "trending-182911",
@@ -6776,7 +7024,8 @@
       "_recovered": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_1"
+      "coverChoiceSource": "google_books_1",
+      "status": "approved"
     },
     {
       "id": "trending-188733",
@@ -6800,7 +7049,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-188743",
@@ -6827,7 +7077,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-190583",
@@ -6854,7 +7105,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-193473",
@@ -6880,7 +7132,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-194622",
@@ -6907,7 +7160,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-201773",
@@ -6934,7 +7188,8 @@
       "_recovered": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-201833",
@@ -6959,7 +7214,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-50006",
@@ -6987,7 +7243,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-59699",
@@ -7014,7 +7271,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-61649",
@@ -7040,7 +7298,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-77048",
@@ -7064,7 +7323,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-81025",
@@ -7091,7 +7351,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85754",
@@ -7119,7 +7380,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-85978",
@@ -7147,7 +7409,8 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "coverChoiceSource": "google_books_vol1"
+      "coverChoiceSource": "google_books_vol1",
+      "status": "approved"
     },
     {
       "id": "trending-86009",
@@ -7173,7 +7436,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86646",
@@ -7198,7 +7462,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-86786",
@@ -7225,7 +7490,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-91761",
@@ -7251,7 +7517,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-97100",
@@ -7280,7 +7547,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-97406",
@@ -7305,7 +7573,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-99003",
@@ -7333,7 +7602,8 @@
       "inCurated": false,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     },
     {
       "id": "trending-99102",
@@ -7360,7 +7630,8 @@
       "inCurated": true,
       "_recovered": true,
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "status": "approved"
     }
   ],
   "feedHealth": {
