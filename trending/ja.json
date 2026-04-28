@@ -30,6 +30,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 1
     },
     {
@@ -336,6 +339,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-105778",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 12
     },
     {
@@ -501,6 +507,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-101517",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 16
     },
     {
@@ -531,6 +540,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30002",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 17
     },
     {
@@ -559,6 +571,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 18
     },
     {
@@ -587,6 +602,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 19
     },
     {
@@ -617,6 +635,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 20
     },
     {
@@ -673,6 +694,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 22
     },
     {
@@ -700,6 +724,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30656",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 23
     },
     {
@@ -727,6 +754,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30642",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 24
     },
     {
@@ -867,6 +897,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 29
     },
     {
@@ -952,6 +985,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30026",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 32
     },
     {
@@ -1036,6 +1072,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30001",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 35
     },
     {
@@ -1091,6 +1130,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30003",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 37
     },
     {
@@ -1120,6 +1162,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99,
       "trendingRank": 38
     },
     {
@@ -1180,6 +1225,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "other",
+      "franchiseOrder": 99,
       "trendingRank": 40
     },
     {
@@ -1236,6 +1284,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30021",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 42
     },
     {
@@ -1263,6 +1314,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 43
     },
     {
@@ -1575,6 +1629,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30025",
+      "franchiseRole": "main",
+      "franchiseOrder": 0,
       "trendingRank": 54
     },
     {
@@ -1829,6 +1886,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99,
       "trendingRank": 62
     },
     {
@@ -2554,6 +2614,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99,
       "trendingRank": 87
     },
     {
@@ -2580,6 +2643,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-30021",
+      "franchiseRole": "other",
+      "franchiseOrder": 99,
       "trendingRank": 88
     },
     {
@@ -2719,6 +2785,9 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
+      "franchiseID": "trending-105778",
+      "franchiseRole": "other",
+      "franchiseOrder": 99,
       "trendingRank": 93
     },
     {
@@ -3680,7 +3749,10 @@
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
       "status": "approved",
-      "_franchise_source": true
+      "_franchise_source": true,
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143775",
@@ -3708,7 +3780,10 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-145382",
@@ -3984,7 +4059,10 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-167107",
@@ -4067,7 +4145,10 @@
       "_recovered": true,
       "inTodaysScrape": false,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-169551",
@@ -4231,7 +4312,10 @@
       "_recovered": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-181671",
@@ -5878,7 +5962,10 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143841",
@@ -7206,7 +7293,10 @@
       "status": "approved",
       "_franchise_source": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "franchiseID": "trending-101517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-201855",
@@ -7392,7 +7482,10 @@
       "status": "approved",
       "_franchise_source": true,
       "inTodaysScrape": true,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "franchiseID": "trending-30051",
+      "franchiseRole": "main",
+      "franchiseOrder": 0
     },
     {
       "id": "trending-30908",
@@ -7563,7 +7656,10 @@
       "_recovered": true,
       "status": "approved",
       "inTodaysScrape": false,
-      "firstSeenAt": "2026-04-27"
+      "firstSeenAt": "2026-04-27",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-63671",
@@ -8890,7 +8986,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-129100",
@@ -9225,7 +9324,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-137514",
@@ -9629,7 +9731,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-103252",
@@ -9684,7 +9789,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-44414",
@@ -9712,7 +9820,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-41926",
@@ -9769,7 +9880,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-105234",
@@ -9798,7 +9912,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-82353",
@@ -9933,7 +10050,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-110232",
@@ -9959,7 +10079,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-110233",
@@ -9986,7 +10109,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-110258",
@@ -10064,7 +10190,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-110715",
@@ -10090,7 +10219,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-117802",
@@ -10119,7 +10251,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30013",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-125826",
@@ -10147,7 +10282,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30001",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-134184",
@@ -10283,7 +10421,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-36028",
@@ -10310,7 +10451,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-87178",
@@ -10338,7 +10482,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-87175",
@@ -10365,7 +10512,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-87439",
@@ -10392,7 +10542,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-53208",
@@ -10447,7 +10600,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-87232",
@@ -10474,7 +10630,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-121171",
@@ -10501,7 +10660,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-70225",
@@ -10527,7 +10689,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-94444",
@@ -10553,7 +10718,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-88353",
@@ -10577,7 +10745,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-121169",
@@ -10604,7 +10775,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-121170",
@@ -10631,7 +10805,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-138736",
@@ -10657,7 +10834,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-165485",
@@ -10684,7 +10864,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-30042",
@@ -10715,7 +10898,10 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "main",
+      "franchiseOrder": 0
     },
     {
       "id": "trending-32897",
@@ -10802,7 +10988,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-86508",
@@ -10829,7 +11018,10 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-98030",
@@ -10858,7 +11050,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-96511",
@@ -10912,7 +11107,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-46110",
@@ -10941,7 +11139,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-73401",
@@ -10970,7 +11171,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-56373",
@@ -10998,7 +11202,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-124602",
@@ -11057,7 +11264,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-134342",
@@ -11171,7 +11381,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-105260",
@@ -11198,7 +11411,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-94109",
@@ -11226,7 +11442,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-104311",
@@ -11255,7 +11474,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-105486",
@@ -11284,7 +11506,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-126719",
@@ -11313,7 +11538,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-146180",
@@ -11342,7 +11570,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-138183",
@@ -11369,7 +11600,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-175023",
@@ -11398,7 +11632,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-186658",
@@ -11425,7 +11662,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30042",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-30733",
@@ -12079,7 +12319,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "main",
+      "franchiseOrder": 0
     },
     {
       "id": "trending-31630",
@@ -12107,7 +12350,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-30872",
@@ -12136,7 +12382,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-184613",
@@ -12164,7 +12413,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-33006",
@@ -12193,7 +12445,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-33009",
@@ -12222,7 +12477,10 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-33008",
@@ -12252,7 +12510,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-92224",
@@ -12306,7 +12567,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-88339",
@@ -12334,7 +12598,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-138070",
@@ -12361,7 +12628,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-187518",
@@ -12528,7 +12798,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-185705",
@@ -12690,7 +12963,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-65907",
@@ -12717,7 +12993,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-71865",
@@ -12744,7 +13023,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-166020",
@@ -12771,7 +13053,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-31517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-105925",
@@ -13424,7 +13709,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-52744",
@@ -13453,7 +13741,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-104300",
@@ -13479,7 +13770,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-112709",
@@ -13507,7 +13801,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-116827",
@@ -13592,7 +13889,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-73607",
@@ -13620,7 +13920,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-73605",
@@ -13647,7 +13950,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-56133",
@@ -13702,7 +14008,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-53355",
@@ -13729,7 +14038,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-141700",
@@ -13757,7 +14069,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-141701",
@@ -13786,7 +14101,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-141702",
@@ -13815,7 +14133,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-141703",
@@ -13844,7 +14165,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-52745",
@@ -13871,7 +14195,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-60541",
@@ -13897,7 +14224,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-210289",
@@ -13924,7 +14254,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30012",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-75996",
@@ -13951,7 +14284,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30026",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-103186",
@@ -14005,7 +14341,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30021",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-34941",
@@ -14031,7 +14370,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30021",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-91260",
@@ -14085,7 +14427,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30021",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-135124",
@@ -14113,7 +14458,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30021",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-104680",
@@ -14141,7 +14489,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30025",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-34658",
@@ -14171,7 +14522,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30025",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-166142",
@@ -14200,7 +14554,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30025",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-85199",
@@ -14229,7 +14586,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-66535",
@@ -14255,7 +14615,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-100232",
@@ -14285,7 +14648,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-85420",
@@ -14312,7 +14678,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-89879",
@@ -14397,7 +14766,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-85476",
@@ -14424,7 +14796,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-95409",
@@ -14454,7 +14829,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-85312",
@@ -14483,7 +14861,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-91593",
@@ -14509,7 +14890,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-53390",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-108817",
@@ -14537,7 +14921,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-108846",
@@ -14617,7 +15004,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-116140",
@@ -14645,7 +15035,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-118750",
@@ -14676,7 +15069,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-118991",
@@ -14704,7 +15100,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-124283",
@@ -14732,7 +15131,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-126445",
@@ -14761,7 +15163,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-136382",
@@ -14788,7 +15193,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-112292",
@@ -14814,7 +15222,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-87216",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-97477",
@@ -14921,7 +15332,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-103625",
@@ -14976,7 +15390,10 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-109325",
@@ -15030,7 +15447,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-110981",
@@ -15057,7 +15477,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-114207",
@@ -15108,7 +15531,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-126770",
@@ -15165,7 +15591,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-141101",
@@ -15219,7 +15648,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-179951",
@@ -15247,7 +15679,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-190676",
@@ -15276,7 +15711,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-51062",
@@ -15331,7 +15769,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-85486",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-111722",
@@ -15926,7 +16367,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-117024",
@@ -15953,7 +16397,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-117042",
@@ -15981,7 +16428,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-142781",
@@ -16009,7 +16459,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101517",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-85710",
@@ -16039,7 +16492,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-85522",
@@ -16068,7 +16524,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-87233",
@@ -16099,7 +16558,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-101894",
@@ -16129,7 +16591,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-101893",
@@ -16159,7 +16624,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-101896",
@@ -16189,7 +16657,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-136489",
@@ -16217,7 +16688,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-63327",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-101311",
@@ -16248,7 +16722,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "main",
+      "franchiseOrder": 0
     },
     {
       "id": "trending-143704",
@@ -16278,7 +16755,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-54499",
@@ -16304,7 +16784,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143703",
@@ -16333,7 +16816,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143720",
@@ -16363,7 +16849,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143721",
@@ -16393,7 +16882,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143722",
@@ -16423,7 +16915,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143724",
@@ -16453,7 +16948,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143726",
@@ -16483,7 +16981,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-85538",
@@ -16539,7 +17040,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143743",
@@ -16568,7 +17072,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-143749",
@@ -16598,7 +17105,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-101311",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-96019",
@@ -17445,7 +17955,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30053",
+      "franchiseRole": "main",
+      "franchiseOrder": 0
     },
     {
       "id": "trending-132212",
@@ -17472,7 +17985,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30053",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-148092",
@@ -17526,7 +18042,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30022",
+      "franchiseRole": "main",
+      "franchiseOrder": 0
     },
     {
       "id": "trending-67303",
@@ -17552,7 +18071,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30022",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-101938",
@@ -17580,7 +18102,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30022",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-38038",
@@ -17631,7 +18156,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30022",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-32333",
@@ -17657,7 +18185,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30022",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-91811",
@@ -17683,7 +18214,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30022",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-39271",
@@ -17711,7 +18245,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30022",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-34795",
@@ -17739,7 +18276,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30022",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-129793",
@@ -17873,7 +18413,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30002",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-100299",
@@ -17901,7 +18444,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30002",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-135129",
@@ -17929,7 +18475,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30656",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-52527",
@@ -17982,7 +18531,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30642",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-162262",
@@ -18061,7 +18613,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30001",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-30743",
@@ -18118,7 +18673,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30003",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "trending-95353",
@@ -18147,7 +18705,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30003",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "rakuten-9784284001137",
@@ -27534,7 +28095,10 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "franchiseID": "trending-30011",
+      "franchiseRole": "other",
+      "franchiseOrder": 99
     },
     {
       "id": "rakuten-9784088850054",
