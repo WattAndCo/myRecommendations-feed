@@ -29,7 +29,8 @@
       "coverChoiceSource": "google_books_2",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 1
     },
     {
       "id": "trending-169355",
@@ -56,7 +57,8 @@
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 2
     },
     {
       "id": "trending-180752",
@@ -84,7 +86,8 @@
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 3
     },
     {
       "id": "trending-108556",
@@ -112,7 +115,8 @@
       "coverChoiceSource": "google_books_latest",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 4
     },
     {
       "id": "trending-125828",
@@ -137,7 +141,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 5
     },
     {
       "id": "trending-149544",
@@ -162,7 +167,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 6
     },
     {
       "id": "trending-98263",
@@ -189,7 +195,8 @@
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 7
     },
     {
       "id": "trending-86399",
@@ -217,7 +224,8 @@
       "coverChoiceSource": "anilist",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 8
     },
     {
       "id": "trending-106130",
@@ -244,7 +252,8 @@
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 9
     },
     {
       "id": "trending-46765",
@@ -269,7 +278,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 10
     },
     {
       "id": "trending-136109",
@@ -295,7 +305,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 11
     },
     {
       "id": "trending-105778",
@@ -324,7 +335,8 @@
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 12
     },
     {
       "id": "trending-157391",
@@ -380,7 +392,8 @@
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 13
     },
     {
       "id": "trending-203593",
@@ -405,7 +418,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 14
     },
     {
       "id": "trending-122063",
@@ -459,7 +473,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 15
     },
     {
       "id": "trending-101517",
@@ -485,7 +500,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 16
     },
     {
       "id": "trending-30002",
@@ -514,7 +530,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 17
     },
     {
       "id": "trending-53390",
@@ -541,7 +558,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 18
     },
     {
       "id": "trending-87216",
@@ -568,7 +586,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 19
     },
     {
       "id": "trending-63327",
@@ -597,7 +616,8 @@
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 20
     },
     {
       "id": "trending-34632",
@@ -623,7 +643,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 21
     },
     {
       "id": "trending-85486",
@@ -651,7 +672,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 22
     },
     {
       "id": "trending-30656",
@@ -677,7 +699,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 23
     },
     {
       "id": "trending-30642",
@@ -703,7 +726,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 24
     },
     {
       "id": "trending-87423",
@@ -732,7 +756,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 25
     },
     {
       "id": "trending-72451",
@@ -758,7 +783,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 26
     },
     {
       "id": "trending-86635",
@@ -785,7 +811,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 27
     },
     {
       "id": "trending-102988",
@@ -812,7 +839,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 28
     },
     {
       "id": "trending-30012",
@@ -838,7 +866,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 29
     },
     {
       "id": "trending-132029",
@@ -867,7 +896,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 30
     },
     {
       "id": "trending-97852",
@@ -893,7 +923,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 31
     },
     {
       "id": "trending-30026",
@@ -920,7 +951,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 32
     },
     {
       "id": "trending-117195",
@@ -947,7 +979,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 33
     },
     {
       "id": "trending-86123",
@@ -974,7 +1007,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 34
     },
     {
       "id": "trending-30001",
@@ -1001,7 +1035,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 35
     },
     {
       "id": "trending-120760",
@@ -1026,7 +1061,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 36
     },
     {
       "id": "trending-30003",
@@ -1054,7 +1090,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 37
     },
     {
       "id": "trending-31706",
@@ -1082,7 +1119,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 38
     },
     {
       "id": "trending-87170",
@@ -1111,7 +1149,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 39
     },
     {
       "id": "trending-85611",
@@ -1140,7 +1179,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 40
     },
     {
       "id": "trending-65243",
@@ -1166,7 +1206,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 41
     },
     {
       "id": "trending-30021",
@@ -1194,7 +1235,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 42
     },
     {
       "id": "trending-30011",
@@ -1220,7 +1262,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 43
     },
     {
       "id": "trending-100994",
@@ -1247,7 +1290,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 44
     },
     {
       "id": "trending-101583",
@@ -1275,7 +1319,8 @@
       "coverChoiceSource": "google_books_vol1",
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 45
     },
     {
       "id": "trending-85135",
@@ -1301,7 +1346,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 46
     },
     {
       "id": "trending-98416",
@@ -1328,7 +1374,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 47
     },
     {
       "id": "trending-30436",
@@ -1357,7 +1404,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 48
     },
     {
       "id": "trending-31133",
@@ -1386,7 +1434,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 49
     },
     {
       "id": "trending-118586",
@@ -1412,7 +1461,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 50
     },
     {
       "id": "trending-97553",
@@ -1439,7 +1489,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 51
     },
     {
       "id": "trending-146983",
@@ -1464,7 +1515,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 52
     },
     {
       "id": "trending-74489",
@@ -1493,7 +1545,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 53
     },
     {
       "id": "trending-30025",
@@ -1521,7 +1574,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 54
     },
     {
       "id": "trending-107237",
@@ -1546,7 +1600,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 55
     },
     {
       "id": "trending-100664",
@@ -1573,7 +1628,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 56
     },
     {
       "id": "trending-85737",
@@ -1604,7 +1660,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 57
     },
     {
       "id": "trending-94970",
@@ -1631,7 +1688,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 58
     },
     {
       "id": "trending-54875",
@@ -1685,7 +1743,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 59
     },
     {
       "id": "trending-85470",
@@ -1712,7 +1771,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 60
     },
     {
       "id": "trending-86238",
@@ -1740,7 +1800,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 61
     },
     {
       "id": "trending-44893",
@@ -1767,7 +1828,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 62
     },
     {
       "id": "trending-99026",
@@ -1792,7 +1854,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 63
     },
     {
       "id": "trending-135276",
@@ -1845,7 +1908,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 64
     },
     {
       "id": "trending-85134",
@@ -1874,7 +1938,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 65
     },
     {
       "id": "trending-70171",
@@ -1901,7 +1966,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 66
     },
     {
       "id": "trending-39115",
@@ -1929,7 +1995,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 67
     },
     {
       "id": "trending-85976",
@@ -1958,7 +2025,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 68
     },
     {
       "id": "trending-86355",
@@ -1984,7 +2052,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 69
     },
     {
       "id": "trending-78399",
@@ -2011,7 +2080,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 70
     },
     {
       "id": "trending-115166",
@@ -2037,7 +2107,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 71
     },
     {
       "id": "trending-51479",
@@ -2065,7 +2136,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 72
     },
     {
       "id": "trending-39726",
@@ -2093,7 +2165,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 73
     },
     {
       "id": "trending-85743",
@@ -2119,7 +2192,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 74
     },
     {
       "id": "trending-91170",
@@ -2146,7 +2220,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 75
     },
     {
       "id": "trending-86406",
@@ -2172,7 +2247,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 76
     },
     {
       "id": "trending-42854",
@@ -2200,7 +2276,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 77
     },
     {
       "id": "trending-108428",
@@ -2226,7 +2303,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 78
     },
     {
       "id": "trending-33083",
@@ -2254,7 +2332,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 79
     },
     {
       "id": "trending-55409",
@@ -2282,7 +2361,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 80
     },
     {
       "id": "trending-85162",
@@ -2310,7 +2390,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 81
     },
     {
       "id": "trending-97298",
@@ -2335,7 +2416,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 82
     },
     {
       "id": "trending-113533",
@@ -2361,7 +2443,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 83
     },
     {
       "id": "trending-130687",
@@ -2387,7 +2470,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 84
     },
     {
       "id": "trending-86274",
@@ -2414,7 +2498,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 85
     },
     {
       "id": "trending-94846",
@@ -2439,7 +2524,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 86
     },
     {
       "id": "trending-53751",
@@ -2467,7 +2553,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 87
     },
     {
       "id": "trending-37458",
@@ -2492,7 +2579,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 88
     },
     {
       "id": "trending-87284",
@@ -2520,7 +2608,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 89
     },
     {
       "id": "trending-64127",
@@ -2547,7 +2636,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 90
     },
     {
       "id": "trending-109206",
@@ -2573,7 +2663,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 91
     },
     {
       "id": "trending-37149",
@@ -2598,7 +2689,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 92
     },
     {
       "id": "trending-138829",
@@ -2626,7 +2718,8 @@
       "inCurated": false,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 93
     },
     {
       "id": "trending-33649",
@@ -2653,7 +2746,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 94
     },
     {
       "id": "trending-86365",
@@ -2680,7 +2774,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 95
     },
     {
       "id": "trending-67523",
@@ -2707,7 +2802,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 96
     },
     {
       "id": "trending-87383",
@@ -2732,7 +2828,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 97
     },
     {
       "id": "trending-87320",
@@ -2757,7 +2854,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 98
     },
     {
       "id": "trending-46816",
@@ -2784,7 +2882,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 99
     },
     {
       "id": "trending-98741",
@@ -2810,7 +2909,8 @@
       "inCurated": true,
       "inTodaysScrape": true,
       "firstSeenAt": "2026-04-27",
-      "status": "approved"
+      "status": "approved",
+      "trendingRank": 100
     },
     {
       "id": "trending-30399",
@@ -20076,7 +20176,7 @@
       "titleJP": "リラックマ4クママンガ",
       "titleEN": "Rilakkuma 4-Panel Manga Vol. 17",
       "author": "コンドウ アキ",
-      "contentType": "literature",
+      "contentType": "manga",
       "difficulty": "elementary",
       "furigana": "full",
       "descriptionEN": "The latest volume in this beloved 4-panel manga series featuring the lazy bear Rilakkuma and his friends through seasonal adventures and everyday antics.",
